@@ -77,7 +77,7 @@ This project was developed as part of a Human Computer Interaction (HCI) course 
 * [Ang Yong Xen](https://github.com/yongxennzz)
 * [Kyle Yamato Christian](https://github.com/kyleyamatoc-bot)
 * [Tan Jun Yin](https://github.com/Jun-Yin67)
-* Yap Kai Zheng
+* [Yap Kai Zheng](https://github.com/kz050822)
 
 ## Disclaimer
 
